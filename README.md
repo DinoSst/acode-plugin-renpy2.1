@@ -8,7 +8,7 @@ An plugin that adds rich support for the Ren'Py programming language to Acode Ed
 - **.rpyc**
 - **.rpa**
  
-Snippets converted from [Ren'Py language support in Atom](https://github.com/DinoSst/acode-plugin-renpy2.1.git)
+Snippets converted from [Ren'Py language support in Atom](https://github.com/renpy/language-renpy)
 
 Feel free to [contribute](https://github.com/DinoSst/acode-plugin-renpy2.1), fork this and send a pull
 
