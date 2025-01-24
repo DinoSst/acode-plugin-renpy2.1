@@ -10,7 +10,7 @@ An plugin that adds rich support for the Ren'Py programming language to Acode Ed
  
 Snippets converted from [Ren'Py language support in Atom](https://github.com/renpy/language-renpy)
 
-Feel free to [contribute](https://github.com/ArjuLaka/acode-plugin-renpy), fork this and send a pull request.
+Feel free to [contribute]([https://github.com/ArjuLaka/acode-plugin-renpy)](https://github.com/DinoSst/acode-plugin-renpy2.1/blob/main/README.md#extension), fork this and send a pull request.
 
 
 > The syntax highlight depending on the syntax theme used. In this case [Default Acode Theme]
