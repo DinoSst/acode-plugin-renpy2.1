@@ -1,4 +1,4 @@
-# acode-plugin-renpy2.1
+# plugin-renpy2.1
 Ren'Py Language Acode
 An plugin that adds rich support for the Ren'Py programming language to Acode Editor.
 
